@@ -1,9 +1,3 @@
-# Translation-App
-
-Simple translation app built using Libretranslate API with features like speech to text, multilingual support & text to speech.
-
-Demo Link: 
-
 # Translation App
 
 Simple translation app built using Libretranslate API with features like speech to text, multilingual support & text to speech.
@@ -12,5 +6,5 @@ Simple translation app built using Libretranslate API with features like speech 
 
 
 
-![Translation App](https://github.com/srikanta30/Sudoku-Game/blob/main/Sudoku-Game.png "Translation App")
+![Translation App](https://github.com/srikanta30/Translation-App/blob/main/Translation-App.png "Translation App")
 
