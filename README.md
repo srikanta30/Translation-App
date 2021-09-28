@@ -2,7 +2,7 @@
 
 Simple translation app built using Libretranslate API with features like speech to text, multilingual support & text to speech.
 
-[👉 Click here to try out the Translation App.](https://serene-yonath-3c7fab.netlify.app/ "Translation App")
+[👉 Click here to try out the Translation App.](https://srikantastranslation.netlify.app/ "Translation App")
 
 
 
